@@ -1,0 +1,1012 @@
+@media only screen and (max-width:1630px){
+    .clientsLogos-sec {
+        height: 970px;
+    }
+    .work-sec2 {
+        padding: 0 0 0px;
+    }
+    .about-sec5.agency-wrap{
+        height:100vh;
+    }
+    .about-sec5.about-wrap-5{
+        height:100vh;
+    }
+    .about-sec6.about-sec6-wrap {
+        height: 820px;
+    }
+    .about-sec7 {
+        height: 870px;
+    }
+}
+@media only screen and (max-width:1440px){
+    .branding-page-wrap .work-image img {
+        min-height: 800px;
+        max-height: 800px;
+        max-width: 600px;
+        margin:0 auto;
+        position:relative;
+    }
+    .branding-page-wrap .work-image {
+        min-height: 800px;
+        max-height: 800px;
+        text-align: center;
+    }
+    .branding-page-wrap .about-sec3 {
+        height: 100vh;
+    }
+    .aboutSec2-bg {
+        background-size: cover !important;
+    }
+    .awsome-text{
+        font-size:22px;
+    }
+    .sec-title p {
+        font-size: 50px;
+    }
+    .about-sec5.agency-wrap {
+        height: 700px;
+    }
+    .services-sec4 {
+        min-height: 900px;
+    }
+    .service-image img {
+        max-height: 600px;
+        min-height: 600px;
+    }
+    .servicesSection-heading .sec-title p {
+        font-size: 90px;
+    }
+    .counterBox span {
+        font-size: 60px;
+    }
+    .section-header {
+        margin-top: 60px;
+    }
+    .navigation-col-right>ul>li>a {
+        font-size: 45px;
+    }
+    .work-wrap-2.work-sec2 .work-image img {
+        min-height: 750px;
+        max-height: 750px;
+        max-width: 520px;
+    }
+    .work-wrap-2.work-sec2  .work-image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .work-wrap-2.work-sec2  .work-image {
+        min-height: 760px;
+        max-height: 760px;
+    }
+    .inner-section1 {
+        text-align: center;
+        min-height: 500px;
+    }
+    .about-sec2 {
+        min-height: 770px;
+    }
+    .aboutSec2-bg {
+        min-height: 770px;
+    }
+    .about-sec3 {
+        height: 450px;
+    }
+    .about-sec4 {
+        height: 700px;
+    }
+    .about-image img {
+        max-height: 600px;
+        min-height: 600px;
+    }
+}
+@media only screen and (max-width:1330px){}
+@media only screen and (max-width:1200px){
+    .resource-card .cardImage img {
+        min-height: 200px;
+        max-height: 200px;
+    }
+    .branding-page-wrap .work-image img {
+        min-height: 650px;
+        max-height: 650px;
+        max-width: 450px;
+        margin: 0 auto;
+    }
+    .branding-page-wrap .work-image {
+        min-height: 660px;
+        max-height: 660px;
+        text-align: center;
+    }
+    .aboutSec6-bg {
+        max-height: 600px;
+        min-height: 600px;
+    }
+    .clientsLogos-sec {
+        height: 740px;
+    }
+    .about-sec7 video {
+        min-height: 700px;
+        max-height: 700px;
+    }
+    .about-sec7 {
+        height: 730px;
+    }
+    .about-sec6.about-sec6-wrap {
+        height: 670px;
+    } 
+    .aboutSec6-bg img {
+        max-height: 650px;
+        min-height: 650px;
+    }
+    .sec-title p {
+        font-size: 50px;
+    }
+    .servicesSection-heading .sec-title p {
+        font-size: 80px;
+    }
+    .aboutSec3-content .paragraph {
+        font-size: 24px;
+    }
+    .servicesSection-heading {
+        min-height: 400px;
+        max-height: 400px;
+    }
+    .footer-text h4 {
+        font-size: 75px;
+    }
+    .footer-text a {
+        font-size: 75px;
+    }
+    .sec1-banner-anchors a {
+        font-size: 75px;
+    }
+    .section1-content {
+        min-height: 500px;
+    }
+    .navigation-boxWrap {
+        width: 60%;
+    }
+    .work-wrap-2.work-sec2  .work-image img {
+        min-height: 680px;
+        max-height: 680px;
+        max-width: 430px;
+    }
+    .work-wrap-2.work-sec2  .work-image {
+        min-height: 670px;
+        max-height: 670px;
+    }
+    .about-image img {
+        max-height: 630px;
+        min-height: 630px;
+    }
+    
+    
+}
+@media only screen and (max-width:1060px){}
+@media only screen and (max-width:1024px){
+    .about-image img {
+        max-height: 570px;
+        min-height: 570px;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+    .about-sec7 video {
+        min-height: 600px;
+        max-height: 600px;
+    }
+    .servicesSection-heading .sec-title p {
+        font-size: 70px;
+    }
+    .service-image img {
+        max-height: 500px;
+        min-height: 500px;
+    }
+    .sec1-banner-anchors a {
+        font-size: 70px;
+    }
+    .resource-card .cardImage img {
+        min-height: 180px;
+        max-height: 180px;
+    }
+    .footer-text h4 {
+        font-size: 60px;
+    }
+    .footer-text a {
+        font-size: 60px;
+    }
+    .servicesSection-heading {
+        min-height: 200px;
+        max-height: 200px;
+    }
+    .services-sec4 {
+        min-height: 760px;
+    }
+    .black-heading {
+        font-size: 60px;
+    }
+    .contact-sec .inputField {
+        font-size: 30px;
+    }
+
+}
+@media only screen and (max-width:991px){
+    .branding-page-wrap .about-sec5.agency-wrap {
+        height: 450px;
+    }
+    .branding-page-wrap .work-image img {
+        min-height: 600px;
+        max-height: 600px;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    .branding-page-wrap .work-image {
+        min-height: 600px;
+        max-height: 600px;
+        text-align: center;
+    }
+    .branding-page-wrap .aboutSec3-content .paragraph {
+        font-size: 20px;
+    }
+    .aboutSec2-bg {
+        min-height: 640px;
+        max-height: 640px;
+    }
+    .about-sec2 {
+        min-height: 700px;
+    }
+    .counterBox span {
+        font-size: 50px;
+    }
+    .about-image img {
+        max-height: 500px;
+        min-height: 500px;
+    }
+    .aboutSec6-bg img {
+        max-height: 500px;
+        min-height: 500px;
+    }
+    .counter-sec {
+        height: 20vh;
+    }
+    .inner-section1 {
+        min-height:460px;
+    }
+    .sec-title p {
+        font-size: 45px;
+    }
+    .sec1-banner-anchors a {
+        font-size: 65px;
+    }
+    .black-heading {
+        font-size: 65px;
+    }
+    .resource-card .cardImage img {
+        min-height: 160px;
+        max-height: 160px;
+    }
+    .work-wrap-2.work-sec2  .work-image img {
+        min-height: 670px;
+        max-height: 670px;
+        max-width: 420px;
+    }
+    .service-content p {
+        font-size: 20px;
+    }
+    .service-image img {
+        max-height: 450px;
+        min-height: 450px;
+        max-width: 270px;
+        margin: 0 auto;
+    }
+    .service-image {
+        text-align: center;
+    }
+}
+@media only screen and (max-width:910px){
+    
+    .resource-card .tags span {
+        font-size: 15px;
+        padding: 7px 20px;
+    }
+    .handShake {
+        max-width: 60px;
+    }
+    .branding-page-wrap .about-sec5.agency-wrap {
+        height: 530px;
+    }
+    .branding-page-wrap .about-sec7 video {
+        min-height: 440px;
+        max-height: 440px;
+    }
+    .branding-page-wrap .about-sec6 {
+        height: 500px;
+    }
+    .branding-page-wrap .aboutSec6-bg {
+        max-height: 500px;
+        min-height: 500px;
+    }
+    .branding-page-wrap .about-sec7 {
+        height: 440px;
+    }
+    .branding-page-wrap .about-sec5 {
+        height: 450px;
+    }
+    .about-sec2 {
+        min-height: 630px;
+    }
+    .client-logo img {
+        max-width: 240px;
+        max-height: 90px;
+        min-height: 90px;
+    }
+    .about-sec3 {
+        height: 360px;
+    }
+    .about-sec5 {
+        height: 560px;
+    }
+    .clientsLogos-sec {
+        height: 850px;
+    }
+    .client-logo img {
+        max-width: 200px;
+        max-height: 100px;
+        min-height: 100px;
+    }
+    .awsome-text {
+        font-size: 18px;
+    }
+    .counterBox span {
+        font-size: 40px;
+    }
+    .inputField-box {
+        max-width: 600px;
+    }
+    .about-sec7 {
+        height: 350px;
+    }
+    .services-sec3 {
+        height: 350px;
+    }
+    .sec-title p {
+        font-size: 34px;
+    }
+    .inner-section1 {
+        min-height: 380px;
+    }
+    .about-sec7 video {
+        min-height: 500px;
+        max-height: 500px;
+    }
+    .servicesSection-heading .sec-title p {
+        font-size: 60px;
+    }    
+    .aboutSec3-content .paragraph {
+        font-size: 18px;
+    }
+    .work-wrap-2.work-sec2  .work-image img {
+        min-height: 600px;
+        max-height: 600px;
+        max-width: 340px;
+    }
+    .section2-content span {
+        font-size: 18px;
+    }
+    .black-text {
+        font-size: 30px;
+    }
+    .slide-image img {
+        min-height: 270px;
+        max-height: 270px;
+    }
+    .resource-card .title {
+        font-size: 20px;
+    }
+    .heading-paragraph {
+        font-size: 25px;
+    }
+    .banner-paraghraph {
+        font-size: 27px;
+    }
+    .resource-card .cardImage img {
+        min-height: 140px;
+        max-height: 140px;
+    }
+    .sec1-banner-anchors a {
+        font-size: 52px;
+    }
+    .section1-content {
+        min-height: 470px;
+    }
+    .black-heading {
+        font-size: 50px;
+    }  
+    .footer-text h4 {
+        font-size: 60px;
+    }
+    .footer-text a {
+        font-size: 60px;
+    }
+    .navigation-boxWrap {
+        width: 70%;
+    }
+    .work-wrap-2.work-sec2  .work-image {
+        min-height: 600px;
+        max-height: 600px;
+    }
+    .work-wrap-2.work-sec2  .work-image img {
+        min-height: 580px;
+        max-height: 580px;
+        max-width: 340px;
+    }
+    .aboutSec2-bg {
+        min-height: 570px;
+        max-height: 570px;
+    }
+}
+@media only screen and (max-width:767px){
+    .branding-page-wrap .clientsLogos-sec {
+        height: 950px;
+    }
+    .branding-page-wrap .sec-title p {
+        font-size: 32px;
+    }
+    .branding-page-wrap .work-image {
+        min-height: 500px;
+        max-height: 500px;
+        text-align: center;
+    }
+    .branding-page-wrap .work-image img {
+        min-height: 500px;
+        max-height: 500px;
+        max-width: 340px;
+        margin: 0 auto;
+    }
+    .branding-page-wrap .webSec3-button {
+        text-align: center;
+    }
+    .about-page-wrap .clientsLogos-sec {
+        height: 900px;
+    }
+    .about-page-wrap .about-sec7 {
+        height: 500px;
+    }
+    .about-page-wrap .sec-title p {
+        font-size: 35px;
+    }
+    .about-page-wrap .counter-sec {
+        min-height: 300px;
+    }
+    .about-page-wrap .aboutSec6-bg {
+        max-height: 450px;
+        min-height: 450px;
+    }
+    .about-page-wrap .aboutSec3-content {
+        margin-top: 0px;
+    }
+    .about-page-wrap .about-sec6.about-sec6-wrap {
+        height: 550px;
+    }
+    .about-page-wrap .aboutSec6-bg img {
+        max-height: 350px;
+        min-height: 350px;
+    }
+    .about-page-wrap .about-sec3 {
+        height: 520px;
+    }
+    .about-page-wrap .about-sec2 {
+        min-height: 400px;
+        max-height: 400px;
+    }
+    .about-page-wrap .about-image.mt-100 {
+        margin-top: 20px;
+    }
+    .about-sec2 {
+        min-height: 250px;
+        max-height: 250px;
+    }
+    .about-page-wrap .about-sec4 {
+        height: 780px;
+    }
+    .about-page-wrap .about-sec5 {
+        min-height: 620px;
+        max-height: 620px;
+    }
+    .about-page-wrap .about-image img {
+        max-height: 350px;
+        min-height: 350px;
+    }
+    .about-sec3 .aboutSec3-content {
+        margin-top: 0px;
+    }
+    .clientsLogo-wrap .client-logo {
+        margin: 10px 0;
+    }
+    .aboutSec2-bg {
+        min-height: 400px;
+        max-height: 400px;
+    }
+    .handShake {
+        max-width: 50px;
+    }
+    .check {
+        font-size: 16px;
+    }
+    .inputField-box {
+        max-width: 420px;
+    }
+    .contact-sec .inputField {
+        font-size: 25px;
+    }
+    .radiobox-group {
+        max-width: 650px;
+    }
+    .radio {
+        padding: 10px 15px;
+        font-size: 20px;
+    }
+    .gray-label {
+        font-size: 25px;
+    }
+    .about-sec7 video {
+        min-height: 400px;
+        max-height: 400px;
+    }
+    .aboutSec3-content {
+        margin-top: 50px;
+    }
+    .tutorials-tabs .nav-link {
+        margin: 0 40px 0 0;
+    }
+    .services-sec5 {
+        min-height: 680px;
+    }
+    .services-sec3 {
+        height: 250px;
+    }
+    .aboutSec3-content .paragraph {
+        width: calc(100% - 170px);
+    }
+    .services-sec4 {
+        min-height: 530px;
+    }
+    .services-sec5 .row {
+        flex-direction: column-reverse;
+    }
+    .service-image img {
+        max-height: 300px;
+        min-height: 300px;
+        max-width: 200px;
+    }    
+    .services-sec5 .service-content {
+        width: 100%;
+        margin: 30px auto 30px;
+    }
+    .servicesSection-heading .sec-title p {
+        font-size: 45px;
+    }
+    .servicesSection-heading .sec-title p {
+        font-size: 40px;
+    }
+    .sec-title {
+        margin-top: 0px;
+    }
+    .service-content span {
+        margin-top: 70px;
+        margin-bottom: 10px;
+    }
+    .aboutSec3-content .paragraph p {
+        width: 100%;
+        text-align: center;
+    }
+    .aboutSec3-content .title {
+        font-size: 30px;    
+        width: 100%;
+        text-align: center;
+    }
+    .service-content {
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .aboutSec3-content .paragraph {
+        font-size: 20px;
+    }
+    .aboutSec3-content {
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .sec-title p {
+        font-size: 40px;
+    }
+    .workImage-wrap.mt-100 {
+        margin-top: 10px;
+    }
+    .section1-content {
+        min-height: 400px;
+    }
+    .footer-text h4 {
+        font-size: 60px;
+    }
+    .footer-text a {
+        font-size: 60px;
+    }
+    .resource-card .cardImage img {
+        min-height: 400px;
+        max-height: 400px;
+    }
+    .showcase {
+        padding: 0 20px;
+    }
+    .banner-paraghraph {
+        font-size: 25px;
+    }
+    .showcase{
+        display:none;
+    }
+    .canvas-images{
+        visibility: visible;
+    }
+    .canvas-image-1 img {
+        max-width: 400px;
+        max-height: 400px;
+        border-radius: 20px;
+    }
+    .canvas-images{
+        flex-direction:column;
+        height:100%;
+    }
+    .canvas-image-1 .black-text {
+        font-size: 22px;
+    }
+    .canvas-image-1 .section2-content span {
+        font-size: 16px;
+    }
+    .footer-right ul li {
+        padding: 0;
+        margin: 0 0 50px;
+    }
+    .footer-right ul {
+        max-width: 290px;
+        margin: 30px 0 0 0;
+    }
+    .footer-left {
+        margin-bottom: 30px;
+    }
+    .navigation-boxWrap {
+        width: 80%;
+    }
+    .navigation-col-right>ul>li>a {
+        font-size: 35px;
+    }
+    .sec1-banner-anchors a {
+        font-size: 36px;
+    }
+    .section2-content span {
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width:660px){
+    .resource-card .cardImage img {
+        min-height: 290px;
+        max-height: 290px;
+    }
+}
+@media only screen and (max-width:575px){
+    .work-wrap-2.work-sec2 .work-image img {
+        min-height: 400px;
+        max-height: 400px;
+        max-width: 250px;
+    }
+    .branding-page-wrap.mobile-app-page .about-sec6 {
+        height: 380px;
+    }
+    .branding-page-wrap .sec-title p {
+        font-size: 25px;
+    }
+    .branding-page-wrap .work-image img {
+        min-height: 400px;
+        max-height: 400px;
+        max-width: 270px;
+    }
+    .branding-page-wrap .work-image {
+        min-height: 400px;
+        max-height: 400px;
+    }
+    .branding-page-wrap .about-sec3 {
+        min-height: 780px;
+    }
+    .branding-page-wrap .testimonial-slide .content {
+        font-size: 23px;
+    }
+    .about-page-wrap .paragraph p img {
+        max-width: 30px;
+    }
+    .about-page-wrap .testimonial-slide .title p {
+        font-size: 18px;
+    }
+    .about-page-wrap .testimonials-heading {
+        font-size: 18px;
+    }
+    .about-page-wrap .testimonial-slide .content p {
+         margin-bottom: 20px;
+         font-size: 18px;
+    }
+    .about-page-wrap .aboutSec3-content .paragraph {
+        font-size: 18px;
+    }
+    .about-page-wrap .sec-title p {
+        font-size: 30px;
+    }
+    .about-page-wrap .about-sec2 {
+        min-height: 300px;
+        max-height: 300px;
+    }
+    .about-page-wrap .aboutSec2-bg {
+        min-height: 280px;
+        max-height: 280px;
+    }
+    .check {
+        font-size: 14px;
+    }
+    .contact-sec .inputField {
+        font-size: 20px;
+    }
+    .inputField-box {
+        max-width: 320px;
+    }
+    .sec-title p {
+        font-size: 35px;
+    }
+    .about-sec7.video-section-7 {
+        height: 270px;
+    }
+    .resource-card .tags span {
+        font-size: 16px;
+        padding: 10px 25px;
+    }
+    .about-sec7 {
+        height: 400px;
+    }
+    .services-sec4 {
+        min-height: 670px;
+    }
+    .aboutSec3-content .paragraph {
+        width: calc(100% - 60px);
+    }
+    .about-sec7 video {
+        min-height: 400px;
+        max-height: 400px;
+    }
+    .work-image img {
+        min-height: 530px;
+        max-height: 530px;
+        max-width: 340px;
+    }
+    .work-wrap-2.work-sec2 .work-image {
+        min-height: 380px;
+        max-height: 380px;
+    }
+    .footer-text h4 {
+        font-size: 45px;
+    }
+    .footer-text a {
+        font-size: 45px;
+    }
+    .menu-text{
+        display: none;
+    }
+    .logo {
+        display: flex;
+        align-items: center;
+        height: 100%;
+    }
+    .header-right a {
+        font-size: 16px;
+    }
+    .black-heading {
+        font-size: 35px;
+    }
+    .banner-paraghraph {
+        font-size: 20px;
+    }
+    .natigation-col-left {
+        display: none;
+    }
+}
+@media only screen and (max-width:480px){
+    .resource-card .cardImage img {
+        min-height: 190px;
+        max-height: 190px;
+    }
+}
+@media only screen and (max-width:440px){}
+@media only screen and (max-width:414px){}
+@media only screen and (max-width:385px){
+    .branding-page-wrap .aboutSec6-bg {
+        max-height: 430px;
+        min-height: 430px;
+    }
+    .aboutSec6-bg img {
+        max-height: 400px;
+        min-height: 400px;
+    }
+    .footer-text h4 {
+        font-size: 35px;
+    }
+    .footer-text a {
+        font-size: 35px;
+    }
+    .branding-page-wrap .testimonials-sec {
+        height: 730px;
+    }
+    .branding-page-wrap .image-title {
+        margin: 0px auto 0;
+    }
+    .branding-page-wrap  .aboutSec3-content .title {
+        font-size: 25px;
+    }
+    .branding-page-wrap .image-title p {
+        font-size: 18px;
+        margin: 0;
+    }
+    .branding-page-wrap .work-image {
+        min-height: 340px;
+        max-height: 340px;
+    }
+    .branding-page-wrap .work-image img {
+        min-height: 320px;
+        max-height: 320px;
+        max-width: 210px;
+    }
+    .branding-page-wrap .about-sec3 {
+        min-height: 600px;
+    }
+    .about-page-wrap .about-sec5 {
+        min-height: 400px;
+        max-height: 400px;
+    }
+    .about-page-wrap .counterBox span {
+        font-size: 36px;
+    }
+    .about-page-wrap .counter-sec {
+        min-height: 380px;
+    }
+    .about-page-wrap .about-sec6.about-sec6-wrap {
+        height: 300px;
+    }
+    .about-page-wrap .about-sec3 {
+        height: 450px;
+    }
+    .about-page-wrap .aboutSec6-bg {
+        max-height: 270px;
+        min-height: 270px;
+    }
+    .about-page-wrap .about-sec5.about-wrap-5 {
+        min-height: 730px;
+        max-height: 730px;
+    }
+    .about-page-wrap .sec-title p {
+        font-size: 25px;
+    }
+    .about-page-wrap .aboutSec6-bg img {
+        max-height: 230px;
+        min-height: 230px;
+    }
+    .about-page-wrap .aboutSec3-content .paragraph {
+        font-size: 16px;
+    }
+    .about-page-wrap .paragraph p img {
+        max-width: 20px;
+    }
+    .about-page-wrap .about-sec4 {
+        height: 580px;
+    }
+    .about-page-wrap .about-image img {
+        max-height: 250px;
+        min-height: 250px;
+    }
+    .about-page-wrap .about-sec2 {
+        min-height: 240px;
+        max-height: 240px;
+    }
+    .about-page-wrap .aboutSec2-bg {
+        min-height: 220px;
+        max-height: 220px;
+    }
+    .radiobox-group {
+        max-width: 330px;
+    }
+    .radio {
+        padding: 10px 15px;
+        font-size: 16px;
+    }
+    .gray-label {
+        font-size: 24px;
+    }
+    .inputField-box {
+        max-width: 270px;
+    }
+    .check {
+        padding: 10px 15px;
+
+    }
+    .about-sec7.video-section-7 {
+        height: 200px;
+    }
+    .cta-btn {
+        padding: 10px 20px;
+        font-size: 18px;
+    }
+    .services-sec4 {
+        min-height: 700px;
+    }
+    .aboutSec3-content .paragraph {
+        font-size: 18px;
+    }
+    .aboutSec3-content .paragraph {
+        width: calc(100% - 20px);
+    }
+    .sec-title p {
+        font-size: 35px;
+    }
+    .image-title p {
+        font-size: 20px;
+    }
+    .work-wrap-2.work-sec2 .work-image {
+        min-height: 280px;
+        max-height: 280px;
+    }
+    .work-wrap-2.work-sec2 .work-image img {
+        min-height: 300px;
+        max-height: 300px;
+        max-width: 190px;
+    }
+    .section-header {
+        margin-top: 50px;
+    }
+    .resource-card .cardImage img {
+        min-height: 170px;
+        max-height: 170px;
+    }
+    .canvas-image-1 img {
+        max-width: 360px;
+        max-height: 360px;
+    }
+    .canvas-image-1 .section2-content span {
+        font-size: 14px;
+    }
+    .canvas-image-1 .black-text {
+        font-size: 16px;
+    }
+    .section-header p {
+        font-size: 50px;
+    }
+    .footer-right ul {
+        max-width: 260px;
+    }
+    .footer-right ul li a {
+        font-size: 18px;
+    }
+    .toggle-btn span {
+        width: 25px;
+    }
+    .heading-paragraph {
+        font-size: 20px;
+    }
+    .resource-card .title {
+        font-size: 20px;
+    }
+    .navigation-col-right>ul>li>a {
+        font-size: 30px;
+    }
+    .navigation-footer a {
+        font-size: 16px;
+    }
+    .navigation-boxWrap {
+        width: 100%;
+    }    
+}
+@media only screen and (max-width:375px){}
